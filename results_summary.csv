@@ -1,0 +1,8 @@
+Metric,Value
+MILP Optimal Cost ($),"705,641"
+Greedy Baseline Cost ($),"860,546"
+Cost Savings (%),18.0
+Facilities Opened (MILP),"F2, F3, F6"
+Facilities Opened (Greedy),"F1, F2, F3, F5, F6"
+Num Demand Points,20
+Num Candidate Facilities,6
